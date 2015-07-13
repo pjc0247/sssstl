@@ -16,4 +16,4 @@ inventory.lock();
 inventory.unlock();
 ```
 
-__code__ - __stl interface__ - __query builder__ - __database adapter__ - __database__
+__code__ <-> __stl interface__ <-> __query builder__ <-> __database adapter__ <-> __database__
